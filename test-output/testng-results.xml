@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3274" started-at="2019-11-10T12:55:20Z" finished-at="2019-11-10T12:55:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3274" started-at="2019-11-10T12:55:20Z" finished-at="2019-11-10T12:55:23Z">
+      <class name="AbsaAPI.DogBreedApiTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:AbsaAPI.DogBreedApiTest@73846619]" name="setUp" is-config="true" duration-ms="5" started-at="2019-11-10T14:55:20Z" finished-at="2019-11-10T14:55:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getRandomImgOrLinkForGolden()[pri:0, instance:AbsaAPI.DogBreedApiTest@73846619]" name="getRandomImgOrLinkForGolden" duration-ms="1834" started-at="2019-11-10T14:55:20Z" finished-at="2019-11-10T14:55:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRandomImgOrLinkForGolden -->
+        <test-method status="PASS" signature="getSubBreedListFromRetriver()[pri:0, instance:AbsaAPI.DogBreedApiTest@73846619]" name="getSubBreedListFromRetriver" duration-ms="320" started-at="2019-11-10T14:55:22Z" finished-at="2019-11-10T14:55:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSubBreedListFromRetriver -->
+        <test-method status="PASS" signature="verifyRetriverInResponsePayload()[pri:0, instance:AbsaAPI.DogBreedApiTest@73846619]" name="verifyRetriverInResponsePayload" duration-ms="482" started-at="2019-11-10T14:55:22Z" finished-at="2019-11-10T14:55:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRetriverInResponsePayload -->
+        <test-method status="PASS" signature="getListOfAllDogBreed()[pri:0, instance:AbsaAPI.DogBreedApiTest@73846619]" name="getListOfAllDogBreed" duration-ms="468" started-at="2019-11-10T14:55:22Z" finished-at="2019-11-10T14:55:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListOfAllDogBreed -->
+        <test-method status="PASS" signature="reportEnd()[pri:0, instance:AbsaAPI.DogBreedApiTest@73846619]" name="reportEnd" is-config="true" duration-ms="155" started-at="2019-11-10T14:55:23Z" finished-at="2019-11-10T14:55:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportEnd -->
+      </class> <!-- AbsaAPI.DogBreedApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

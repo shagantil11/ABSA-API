@@ -1,0 +1,4 @@
+baseURL=https://dog.ceo
+resources=/api/breeds/list/all
+resources_for_retriver_breed= /api/breed/retriever/list
+resouce_for_random_image = /api/breeds/image/random
